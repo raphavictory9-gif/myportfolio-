@@ -1,0 +1,36 @@
+
+body{
+   background-color:#0000;
+   color: #006400;
+   margin: 0;
+}
+
+h1{
+   color: #006400;
+   font-weight: bold;
+   font-size: 25px;
+}
+
+.navbar{
+    background-color: black;
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+    padding: 15px 30px;
+    justify-content: space-between;
+}
+ p{
+    text-align: justify;
+    font-size: 18px;
+ }
+ .logo{
+   color: #006400;
+   font-size: 35px;
+   font-weight: bolder;
+ }
+ .nav-link li a{
+   color: #006400;
+   font-size: 20px;
+   justify-content: space-between;
+   display: flex;
+ }
